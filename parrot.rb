@@ -1,6 +1,7 @@
 
 
-phrase = "Hello!"
+
+
 def parrot(phrase= "Squawk!")
 
    phrase
